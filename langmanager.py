@@ -7,8 +7,6 @@ with open('langs.txt') as f:
     langs = langs.replace('\n', '')
 langs = ast.literal_eval(langs)
 
-translates = {'привет мир':'hello world'}
-
 lan = ''
 
 enpath = 'en.txt'
