@@ -1,4 +1,7 @@
 # LangManager
+
+![Image alt](https://img.shields.io/badge/license-GNU%20General%20Public%20License-brightgreen)
+
 Create localisations for other languages
 #### Simple example:
 ```python
