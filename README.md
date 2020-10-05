@@ -3,6 +3,7 @@
 ![Image alt](https://img.shields.io/github/license/ASVIEST/LangManager?logo=GitHub&logoColor=orange&style=flat-square)
 ![Image alt](https://img.shields.io/discord/762602867088818218?color=green&label=server&logo=discord&logoColor=white&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ASVIEST/LangManager?color=green&label=size&logo=GitHub&logoColor=cAF7a6&style=flat-square)
+
 Create localisations for other languages
 #### Simple example:
 ```python
