@@ -1,7 +1,7 @@
 # LangManager
 
 ![Image alt](https://img.shields.io/badge/license-GNU%20General%20Public%20License-brightgreen)
-
+![Image alt](https://img.shields.io/discord/762602867088818218?color=green&label=server&logo=discord&logoColor=white&style=flat-square)
 Create localisations for other languages
 #### Simple example:
 ```python
