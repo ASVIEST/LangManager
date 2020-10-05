@@ -4,7 +4,7 @@
 ![Image alt](https://img.shields.io/discord/762602867088818218?color=green&label=server&logo=discord&logoColor=white&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ASVIEST/LangManager?color=green&label=size&logo=GitHub&logoColor=cAF7a6&style=flat-square)
 
-Create localisations for other languages
+this library allows you to create translations of projects into other languages
 #### Simple example:
 ```python
 from langmanager import *
