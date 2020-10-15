@@ -28,7 +28,7 @@ def lan():
     return lan
 
 def format_to_pydictionary(path='test.txt'):
-    f = open(path)
+    f = open(path, encoding="utf-8")
     text = f.read()
     text = text.replace(';', ',')
     text = text.replace('\n', '')
