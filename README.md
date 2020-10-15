@@ -19,12 +19,10 @@ print(trans)
 language file(en):
 ```
 'hello world':'hello world';
-'hello i':'hello i';
 ```
 And language file(ru):
 ```
 'hello world':'привет мир';
-'hello i':'привет я';
 ```
 ###### language standard file name - lan(ISO 639-1).txt examples: en.txt, ru.txt, zh.txt
 ###### But file name can change through function filepath_en , filepath_ru and others
