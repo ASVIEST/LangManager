@@ -6,12 +6,12 @@
 
 this library allows you to create translations of projects into other languages
 
-### install:
-## installing with pip
+## install:
+#### installing with pip
 ```diff
 !pip install langmanager
 ```
-## installing with GitHub
+#### installing with git
 ```diff
 -git clone https://github.com/ASVIEST/LangManager.git
 ```
@@ -35,10 +35,12 @@ And language file(ru):
 ```
 'hello world':'привет мир';
 ```
-###### language standard file name - lan(ISO 639-1).txt examples: en.txt, ru.txt, zh.txt
-###### But file name can change through function filepath_en , filepath_ru and others
-##### language can be changed during working
-#### change filepath example:
+```diff
+!language standard file name - lan(ISO 639-1).txt examples: en.txt, ru.txt, zh.txt
+!But file name can change through function filepath_en , filepath_ru and others
+```
+###### language can be changed during working
+#### improved example:
 ```python
 from langmanager import *
 
