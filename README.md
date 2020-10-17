@@ -5,6 +5,17 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ASVIEST/LangManager?color=green&label=size&logo=GitHub&logoColor=cAF7a6&style=flat-square)
 
 this library allows you to create translations of projects into other languages
+
+### install:
+## installing with pip
+```diff
+!pip install langmanager
+```
+## installing with GitHub
+```diff
+-git clone https://github.com/ASVIEST/LangManager.git
+```
+
 #### Simple example:
 ```python
 from langmanager import *
