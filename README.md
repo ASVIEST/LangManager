@@ -9,7 +9,7 @@ this library allows you to create translations of projects into other languages
 ## install:
 #### installing with pip
 ```diff
-!pip install langmanager
+-pip install langmanager
 ```
 #### installing with git
 ```diff
