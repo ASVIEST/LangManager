@@ -7,10 +7,12 @@
 this library allows you to create translations of projects into other languages
 
 ## install:
-#### installing with pip
+![Image alt](https://github.com/ASVIEST/LangManager/blob/main/mini_pypi_icon.png)
+#### installing with pypi
 ```diff
 -pip install langmanager
 ```
+![Image alt](https://github.com/ASVIEST/LangManager/blob/main/mini_git_icon.png)
 #### installing with git
 ```diff
 -git clone https://github.com/ASVIEST/LangManager.git
