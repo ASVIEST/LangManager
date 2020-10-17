@@ -38,7 +38,7 @@ trans = translate_get('hello world')
 print(lan())
 print(trans)
 
-lang(ru)
+lang('ru')
 filepath_ru('en.txt')
 trans = translate_get('hello i')
 print(trans)
